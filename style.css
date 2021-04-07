@@ -374,3 +374,60 @@ footer{
 }
 .gallery{
 }
+
+body {
+
+    margin: 0;
+    height: auto;
+    font-family: Handlee;
+    line-height: 24px;
+    color: rgb(0, 0, 0);
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    animation: fadeIn 2s;
+}
+
+.table-worldwide{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 50%;
+    text-align: center;
+}
+
+.container p{
+    text-align: left;
+    font-size: 20px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    margin: 0;
+    margin-bottom: 15px;
+    font-size: 35px;
+    text-align: center;
+    font-family: Handlee;
+    font-weight: bold;
+}
+
+.table-indonesia{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    background-color: white;
+}
+.table-Vietnam{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    background-color: white;
+}
+
+
+
